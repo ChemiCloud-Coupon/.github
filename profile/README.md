@@ -211,5 +211,3 @@ Yes, selected eligible plans may include a free domain for the first year. Renew
 ### Does a ChemiCloud coupon work on renewals?
 
 Most hosting coupons apply to new purchases or the first billing term. Renewal discounts are not always available, so check the renewal price before buying.
-
----
