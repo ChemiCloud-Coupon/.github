@@ -4,6 +4,9 @@
 
 The best **ChemiCloud coupon** depends on the hosting plan you choose.
 
+<img width="900" height="518" alt="ChemiCloud-Coupon" src="https://github.com/user-attachments/assets/568b2bb9-6880-48aa-9170-f1678f29206f" />
+
+
 ChemiCloud currently lists hosting savings of up to **81% off** on selected shared and WordPress hosting plans. Some discounts may be applied automatically through the official deal page, while specific offers require a manual coupon code.
 
 ### Current ChemiCloud Coupon Codes
